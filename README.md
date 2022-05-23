@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI applications such as computer vision to predict health anomalies
 - 🌱 I’m currently learning Deep learning and Data Science
 - 💞️ I’m looking to collaborate on prediction models, data visualisations
-- 📫 How to reach me ...
+- 📫 How to reach me: @olley_tdee on twitter 
 
 <!---
 olleyt/olleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
