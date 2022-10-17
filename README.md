@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @olleyt
-- 👀 I’m interested in AI applications such as computer vision to predict health anomalies
-- 🌱 I’m currently learning Deep learning and Data Science
-- 🌱 I'm also interested in building solutions on AWS and modern software architecture
-- 💞️ I’m looking to collaborate on prediction models, data visualisations
+- 👀 I'm passionate about building optimized solutions on AWS & modern software architecture
+- 💞️ I’m currently preparing for AWS Solution Architect Associate certification
+- 🌱 I’m also interested in Deep learning and Machine Learning applications such as computer vision to predict health anomalies
+
 - 📫 How to reach me: @olley_tdee on twitter 
 
 <!---
