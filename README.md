@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olleyt
 - 👀 I'm passionate about building optimized solutions on AWS & modern software architecture
-- 💞️ I’m currently preparing for AWS Solution Architect Associate certification
+- 💞️ I’m currently preparing for AWS Solution Architect Professional and AWS Machine Learning Specialty certifications
 - 🌱 I’m also interested in Deep learning and Machine Learning applications such as computer vision to predict health anomalies
 
 - 📫 How to reach me: @olley_tdee on twitter 
