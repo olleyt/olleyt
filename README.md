@@ -3,7 +3,8 @@
 - 💞️ I’m currently preparing for AWS Solution Architect Professional and AWS Machine Learning Specialty certifications
 - 🌱 I’m also interested in Deep learning and Machine Learning applications such as computer vision to predict health anomalies
 
-- 📫 How to reach me: @olley_tdee on twitter 
+- 📫 How to reach me: @olley_tdee on twitter , LinkedIn: https//linkedin.com/in/olgatimofeyeva
+- 📚 I just started my tech blog: https://olley.hashnode.dev/
 
 <!---
 olleyt/olleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
